@@ -74,14 +74,14 @@ if (isset($_SESSION["user"])) {
                     type="text"
                     class="form-control"
                     id="email"
-                    name="email" value="admin123@gmail.com"
+                    name="email" value=""
                     placeholder="Enter your E-mail"
                     autofocus
                   />
                 </div>
                 <div class="mb-3">
                   <label for="password" class="form-label">Password</label>
-                  <input type="text" value="87654321" class="form-control" maxlength="10" id="password" name="password" placeholder="Enter your password" />
+                  <input type="password" value="" class="form-control" maxlength="10" id="password" name="password" placeholder="Enter your password" />
                 </div>
                 <button class="btn btn-primary d-grid w-100" type="submit" name="submit">Login</button>
               </form>
