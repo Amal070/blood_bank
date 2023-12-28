@@ -3,7 +3,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8">
-    <title> Responsive Sidebar Menu  | AdminLab </title>
+    <title> AdminLab </title>
     <link rel="stylesheet" href="css_js/bootstrap.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css_js/style.css">
     <!-- Boxicons CDN Link -->
