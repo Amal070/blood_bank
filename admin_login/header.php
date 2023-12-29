@@ -79,8 +79,8 @@
 
           <th scope="col">id</th>
           <th scope="col">Name</th>
-          <th scope="col">Mobile</th>
           <th scope="col">District</th>
+          <th scope="col">Mobile</th>
           <th scope="col">Blood Group<th>
 
         </tr>
