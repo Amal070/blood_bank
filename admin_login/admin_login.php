@@ -58,8 +58,8 @@ if (isset($_SESSION["user"])) {
     <!-- Content -->
 
     <div class="container-xxl">
-      <div class="authentication-wrapper authentication-basic container-p-y" style="    background: url(https://cdn.britannica.com/32/191732-050-5320356D/Human-red-blood-cells.jpg);
-      ">
+    <div class="authentication-wrapper authentication-basic container-p-y" style="background-image: url('./img/blood_bank.jpg'); background-size: cover;">
+      <a href="../index.html" style="position: absolute; top:0; left:1; padding: 10px;">Home</a>
         <div class="authentication-inner">
           <!-- Register Card -->
           <div class="card">
@@ -85,15 +85,14 @@ if (isset($_SESSION["user"])) {
                 </div>
                 <button class="btn btn-primary d-grid w-100" type="submit" name="submit">Login</button>
               </form>
-
-             
+              
             </div>
           </div>
           <!-- Register Card -->
         </div>
       </div>
     </div>
-
+    
     <!-- / Content -->
 
     
